@@ -63,7 +63,7 @@ npm install –product
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1122/060144_cb89de4a_1810934.png "云函数.png")
 
 
-
+-  **如提示npm无法识别，请先恶补npm和node.js基础知识：https://www.runoob.com/nodejs/nodejs-npm.html** 
  
 
 打开cloudfunctions/cloud/comm/config.js文件，配置环境ID
